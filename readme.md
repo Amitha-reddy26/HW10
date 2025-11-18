@@ -39,11 +39,4 @@ This project implements a FastAPI-based backend that includes:
   - All tests  
   - Docker build + push  
 
----
 
-# Installation & Setup
-
-## 1. Clone the Repository
-```bash
-git clone <your-repo-url>
-cd <repo-folder>
